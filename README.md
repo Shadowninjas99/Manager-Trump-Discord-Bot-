@@ -1,1 +1,4 @@
 # Manager-Trump-Discord-Bot-
+
+
+<h>THIS IS THE CODE OF A DISCORD BOT I MADE CALLED MANAGER TRUMP</h>
